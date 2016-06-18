@@ -1,0 +1,10 @@
+C:\csharp\RoadCode\RoadCodeTransfer\RoadCodeTransfer\obj\Debug\RoadCodeTransfer.Form1.resources
+C:\csharp\RoadCode\RoadCodeTransfer\RoadCodeTransfer\obj\Debug\RoadCodeTransfer.IpBox.resources
+C:\csharp\RoadCode\RoadCodeTransfer\RoadCodeTransfer\obj\Debug\RoadCodeTransfer.Properties.Resources.resources
+C:\csharp\RoadCode\RoadCodeTransfer\RoadCodeTransfer\obj\Debug\RoadCodeTransfer.csproj.GenerateResource.Cache
+C:\csharp\RoadCode\RoadCodeTransfer\RoadCodeTransfer\bin\Debug\RoadCodeTransfer.exe
+C:\csharp\RoadCode\RoadCodeTransfer\RoadCodeTransfer\bin\Debug\RoadCodeTransfer.pdb
+C:\csharp\RoadCode\RoadCodeTransfer\RoadCodeTransfer\obj\Debug\RoadCodeTransfer.exe
+C:\csharp\RoadCode\RoadCodeTransfer\RoadCodeTransfer\obj\Debug\RoadCodeTransfer.pdb
+C:\csharp\RoadCode\RoadCodeTransfer\RoadCodeTransfer\obj\Debug\RoadCodeTransfer.csprojResolveAssemblyReference.cache
+C:\csharp\RoadCode\RoadCodeTransfer\RoadCodeTransfer\obj\Debug\RoadCodeTransfer.Form2.resources
